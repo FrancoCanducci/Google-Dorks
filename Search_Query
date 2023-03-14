@@ -1,0 +1,1 @@
+filetype:log inurl:"access.log" intext:"password" OR intext:"user" OR intext:"username" OR intext:"email" OR intext:"login" OR intext:"pass"
